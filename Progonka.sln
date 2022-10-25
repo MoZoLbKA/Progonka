@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Progonka", "Progonka.vcxproj", "{B25F18BE-1498-4087-9690-2A4ED578A715}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B25F18BE-1498-4087-9690-2A4ED578A715}.Debug|x64.ActiveCfg = Debug|x64
+		{B25F18BE-1498-4087-9690-2A4ED578A715}.Debug|x64.Build.0 = Debug|x64
+		{B25F18BE-1498-4087-9690-2A4ED578A715}.Debug|x86.ActiveCfg = Debug|Win32
+		{B25F18BE-1498-4087-9690-2A4ED578A715}.Debug|x86.Build.0 = Debug|Win32
+		{B25F18BE-1498-4087-9690-2A4ED578A715}.Release|x64.ActiveCfg = Release|x64
+		{B25F18BE-1498-4087-9690-2A4ED578A715}.Release|x64.Build.0 = Release|x64
+		{B25F18BE-1498-4087-9690-2A4ED578A715}.Release|x86.ActiveCfg = Release|Win32
+		{B25F18BE-1498-4087-9690-2A4ED578A715}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {349BAA80-2A5B-4A60-8E75-C17443D81339}
+	EndGlobalSection
+EndGlobal
